@@ -1,4 +1,4 @@
-<select name="estados-brasil">
+<select name="uf">
 	<option value="AC">Acre</option>
 	<option value="AL">Alagoas</option>
 	<option value="AP">Amapá</option>
